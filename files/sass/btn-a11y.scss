@@ -1,0 +1,122 @@
+.btn-a11y .btn-primary {
+	background: #1b6ec2;
+	&:hover,
+	&:focus,
+	&:active,
+	&.active {
+		background: #FFF;
+		color: #1b6ec2;
+		border-color: #1b6ec2;
+	}
+	&.disabled {
+		color:#606060;
+		border: 1px solid #999;
+		background: rgba(238, 238, 238, .50);
+	}
+}
+.btn-a11y .btn-default {
+	background: #FFF;
+	border: 1px solid #999;
+	&:hover,
+	&:focus,
+	&:active,
+	&.active {
+		background: rgba(238, 238, 238, .75);
+		border-color: rgba(204, 204, 204, 1);
+	}
+	&.disabled {
+		color:#606060;
+		background: rgba(238, 238, 238, .50);
+	}
+}
+.btn-a11y .btn-success {
+	background: #008000;
+	&:hover,
+	&:focus,
+	&:active,
+	&.active {
+		background: #FFF;
+		border-color:#008000;
+		color:#008000;
+	}
+	&.disabled {
+		color:#606060;
+		border: 1px solid #999;
+		background: rgba(238, 238, 238, .50);
+	}
+}
+.btn-a11y .btn-danger {
+	background: #D50000;
+	&:hover,
+	&:focus,
+	&:active,
+	&.active {
+		background: #FFF;
+		border-color: #D50000;
+		color: #D50000;
+	}
+	&.disabled {
+		color:#606060;
+		border: 1px solid #999;
+		background: rgba(238, 238, 238, .50);
+	}
+}
+.btn-a11y .btn-warning {
+	background-color: #f4d03f;
+	color:#000;
+	border: 1px solid #999;
+	&:visited {
+		color:#000;
+	}
+	&:hover,
+	&:focus,
+	&:active,
+	&.active {
+		background:#FFF;
+		color:#8d6708;
+		border-color: #8d6708;
+	}
+	&.disabled {
+		color:#606060;
+		border: 1px solid #999;
+		background: rgba(238, 238, 238, .50);
+	}
+}
+.btn-a11y .btn-info {
+	background-color: #8cd2e7;
+	color:#000;
+	border: 1px solid #999;
+	&:visited {
+		color:#000;
+	}
+	&:hover,
+	&:focus,
+	&:active,
+	&.active {
+		background: #FFF;
+		color: #217e9b;
+		border-color: #217e9b;
+	}
+	&.disabled {
+		color:#606060;
+		border: 1px solid #999;
+		background: rgba(238, 238, 238, .50);
+	}
+}
+.btn-a11y .btn-link {
+	color: #337ab7;
+	background-color: transparent;
+	-webkit-box-shadow: none;
+	box-shadow: none;
+	&:hover,
+	&:focus,
+	&:active,
+	&.active {
+		color: #2a6496;
+		text-decoration:underline;
+	}
+	&.disabled {
+		color: #606060;
+		text-decoration:none;	
+	}
+}
