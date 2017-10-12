@@ -1,0 +1,29 @@
+{
+  "name": "bootstrap-accessible-buttons",
+  "version": "1.0.0",
+  "description": "Sass and css to make bootstrap buttons more accessible.",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brentswisher/bootstrap-accessible-buttons.git"
+  },
+  "keywords": [
+    "bootstrap",
+    "accessibility",
+    "a11y"
+  ],
+  "author": "Brent Swisher",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brentswisher/bootstrap-accessible-buttons/issues"
+  },
+  "homepage": "https://github.com/brentswisher/bootstrap-accessible-buttons#readme",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-sass": "^1.0.0",
+    "grunt-contrib-watch": "^1.0.0"
+  }
+}
