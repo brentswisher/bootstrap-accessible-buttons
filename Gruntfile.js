@@ -10,6 +10,14 @@ module.exports = function(grunt) {
         files: {
           'files/css/btn-a11y.min.css':'files/sass/btn-a11y.scss'
         }
+      },
+       demo: {
+        options: {
+          style:'expanded'
+        },
+        files: {
+          'files/css/btn-a11y.css':'files/sass/btn-a11y.scss'
+        }
       }
     },
     watch: {
