@@ -28,6 +28,8 @@ The CSS is pretty self-explanatory, but here are the color codes as well:
 | Link | #FFF | #2a6496 |6.25:1 |
 
 
-[Sass File:](https://github.com/brentswisher/bootstrap-accessible-buttons/blob/master/files/sass/btn-a11y.scss)
-[Expanded CSS:](https://github.com/brentswisher/bootstrap-accessible-buttons/tree/master/files/css/btn-a11y.css")
-[Minified CSS:](https://github.com/brentswisher/bootstrap-accessible-buttons/tree/master/files/css/btn-a11y.min.css")
+[Sass File](https://github.com/brentswisher/bootstrap-accessible-buttons/blob/master/files/sass/btn-a11y.scss)
+
+[Expanded CSS](https://github.com/brentswisher/bootstrap-accessible-buttons/tree/master/files/css/btn-a11y.css")
+
+[Minified CSS](https://github.com/brentswisher/bootstrap-accessible-buttons/tree/master/files/css/btn-a11y.min.css")
